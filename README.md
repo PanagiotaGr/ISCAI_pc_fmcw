@@ -90,6 +90,7 @@ ISCAI_pc_fmcw/
 ├── notebooks/
 │   └── ISCAI_PC_FMCW.ipynb
 └── README.md
+└──requirements.txt
 ```
 
 ## Technologies Used
