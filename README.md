@@ -127,14 +127,6 @@ Open the notebook:
 jupyter notebook notebooks/ISCAI_PC_FMCW.ipynb
 ```
 
-## Expected Results
-
-The reference paper demonstrates that the PC-FMCW laser headlamp system can achieve:
-
-* High-speed communication up to 1 Gbps.
-* Centimeter-level ranging accuracy.
-* Robust multi-target tracking.
-* Adaptive illumination for intelligent vehicle scenarios.
 
 ## Authors
 
