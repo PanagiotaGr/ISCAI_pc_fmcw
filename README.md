@@ -89,6 +89,8 @@ The method includes:
 ISCAI_pc_fmcw/
 ├── notebooks/
 │   └── ISCAI_PC_FMCW.ipynb
+│── docs/
+     └── ISCAI_Technical_Report
 └── README.md
 └──requirements.txt
 
@@ -130,13 +132,13 @@ jupyter notebook notebooks/ISCAI_PC_FMCW.ipynb
 
 ## Authors
 
-* **58523 – Panagiota Grosdouli**
-* **58767 – Agni Ioanna Kokorotsikou**
+* **58523 –  Grosdouli Panagiota**
+* **58767 –  Kokorotsikou Agni Ioanna **
 
 ## Supervisors
 
-* **Alexandros-Apostolos A. Boulogeorgos**
-* **Athanasios Chrysologou**
+* **Boulogeorgos A.Alexandros-Apostolos  **
+* **  Chrysologou Athanasios**
 
 ## Course Information
 
