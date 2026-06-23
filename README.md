@@ -89,10 +89,10 @@ The method includes:
 ISCAI_pc_fmcw/
 ├── notebooks/
 │   └── ISCAI_PC_FMCW.ipynb
-│── docs/
-     └── ISCAI_Technical_Report
-└── README.md
-└──requirements.txt
+├── docs/
+│   └── ISCAI_Technical_Report.pdf
+├── README.md
+└── requirements.txt
 
 
 ```
