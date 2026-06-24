@@ -133,12 +133,12 @@ jupyter notebook notebooks/ISCAI_PC_FMCW.ipynb
 ## Authors
 
 * **58523 –  Grosdouli Panagiota**
-* **58767 –  Kokorotsikou Agni Ioanna **
+* **58767 –  Kokorotsikou Agni Ioanna**
 
 ## Supervisors
 
-* **Boulogeorgos A.Alexandros-Apostolos  **
-* **  Chrysologou Athanasios**
+* **Boulogeorgos A.Alexandros-Apostolos**
+* **Chrysologou Athanasios**
 
 ## Course Information
 
