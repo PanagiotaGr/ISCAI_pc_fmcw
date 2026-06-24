@@ -110,6 +110,12 @@ ISCAI_pc_fmcw/
 
 ## How to Run
 
+### Option 1: Google Colab
+
+Open the notebook directly in Google Colab and run all cells.
+
+### Option 2: Local Execution
+
 Clone the repository:
 
 ```bash
@@ -128,6 +134,7 @@ Open the notebook:
 ```bash
 jupyter notebook notebooks/ISCAI_PC_FMCW.ipynb
 ```
+
 
 
 ## Authors
